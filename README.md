@@ -43,10 +43,3 @@ Disclaimer: Some assets in this project may not be owned by the owner of this re
 
 Pydash is not affiliated with Geometry Dash by Robtop Games
 
-
-  
-
-------
-MIT license
-
-Copyright ©  2020 y330 Yonah Aviv

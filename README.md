@@ -1,8 +1,5 @@
 # Pydash
 ## Pygame geometry dash
- 
-_Code by Yonah Aviv_
-
 
 ## Overview
 Implementation of Geometry Dash in Python 3.9 with the interactive graphics library for python, Pygame(v2.0+).

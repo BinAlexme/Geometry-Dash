@@ -1,6 +1,8 @@
 # Pydash
 ## Pygame geometry dash
 
+Raw product that does not require publicity
+
 ## Overview
 Implementation of Geometry Dash in Python 3.9 with the interactive graphics library for python, Pygame(v2.0+).
 
